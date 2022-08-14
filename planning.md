@@ -3,7 +3,7 @@ the w fan page (of sorts)
 p1
 
 nav
-home    yourturn   basketball     coding
+home    yourturn   videogames     theW
 
 h1 me
 h2 about
@@ -12,7 +12,7 @@ h2
 
 img rainbow
 
-p2
+p2W
 nav
 
 form fav sport questionaire
